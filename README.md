@@ -16,6 +16,8 @@ the "Deliver" stage of your Pipeline.
 # 
 ----  
 
+#test
+
 # Email Notification
 There are 2 plugins to send email notification. Email Notification and Extended Email. We will prefer to use Email extended as it provides more features and control on Email notification.
 
